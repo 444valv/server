@@ -1,0 +1,250 @@
+[03:23:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:23:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[03:23:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:23:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:23:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.9.1)
+[03:23:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:23:51] [ServerMain/INFO]: Loaded 1461 recipes
+[03:23:51] [ServerMain/INFO]: Loaded 1574 advancements
+[03:23:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:23:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 773.7ms
+[03:23:52] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[03:23:52] [Server thread/INFO]: Loading properties
+[03:23:52] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[03:23:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:23:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:23:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:23:54] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:23:55] [Server thread/INFO]: Default game type: SURVIVAL
+[03:23:55] [Server thread/INFO]: Generating keypair
+[03:23:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:23:55] [Server thread/INFO]: Using epoll channel type
+[03:23:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:23:55] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:23:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.1
+[03:23:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:23:55] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.1
+[03:23:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.10.
+[03:23:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:23:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:23:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:23:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:23:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:23:58] [Server thread/INFO]: Preparing level "world"
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.1
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ee713cb
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.9.2) is available! Downloading update...
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:23:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[03:23:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 825ms
+[03:23:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[03:23:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[03:24:00] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[03:24:00] [Server thread/INFO]: Preparing spawn area: 100%
+[03:24:00] [Server thread/INFO]: Prepared spawn area in 3 ms
+[03:24:00] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[03:24:00] [Server thread/INFO]: Prepared spawn area in 2 ms
+[03:24:00] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[03:24:00] [Server thread/INFO]: Prepared spawn area in 5 ms
+[03:24:00] [Server thread/INFO]: Done preparing level "world" (1.520s)
+[03:24:00] [Server thread/INFO]: [spark] Starting background profiler...
+[03:24:01] [Server thread/INFO]: Running delayed init tasks
+[03:24:01] [Server thread/INFO]: Done (25.272s)! For help, type "help"
+[03:24:09] [User Authenticator #0/INFO]: UUID of player Juan_Master_Pro is 4712667a-9446-381f-bea6-0fd846d8344f
+[03:24:12] [Server thread/INFO]: Juan_Master_Pro joined the game
+[03:24:12] [Server thread/INFO]: Juan_Master_Pro[/127.93.231.180:41413] logged in with entity id 37 at ([world]-120.52677367042911, 105.0, -2395.328448789303)
+[04:11:08] [User Authenticator #1/INFO]: UUID of player Nonigo is 5a1a4c56-c10e-34bb-950d-53a1f5f59079
+[04:11:09] [Server thread/INFO]: Nonigo joined the game
+[04:11:09] [Server thread/INFO]: Nonigo[/127.126.216.66:53515] logged in with entity id 16730 at ([world]108.78715010094936, 66.0, -2602.819260349695)
+[04:12:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> zz
+[04:12:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Nonigo> z
+[04:12:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> z
+[04:12:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> z
+[04:12:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> z
+[04:12:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> z
+[04:12:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> z
+[04:12:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Nonigo> z
+[04:12:15] [Async Chat Thread - #0/INFO]: [Not Secure] <Juan_Master_Pro> taba afk wn
+[04:12:17] [Server thread/INFO]: Juan_Master_Pro lost connection: Disconnected
+[04:12:17] [Server thread/INFO]: Juan_Master_Pro left the game
+[04:12:23] [User Authenticator #2/INFO]: UUID of player Juan_Master_Pro is 4712667a-9446-381f-bea6-0fd846d8344f
+[04:12:24] [Server thread/INFO]: Juan_Master_Pro joined the game
+[04:12:24] [Server thread/INFO]: Juan_Master_Pro[/127.93.231.180:42265] logged in with entity id 17494 at ([world]-118.61016691446389, 63.0, -2411.808258508845)
+[04:19:19] [Server thread/INFO]: Juan_Master_Pro has made the advancement [A Seedy Place]
+[04:23:35] [Server thread/INFO]: Juan_Master_Pro lost connection: Disconnected
+[04:23:35] [Server thread/INFO]: Juan_Master_Pro left the game
+[04:23:41] [User Authenticator #3/INFO]: UUID of player Juan_Master_Pro is 4712667a-9446-381f-bea6-0fd846d8344f
+[04:23:42] [Server thread/INFO]: Juan_Master_Pro joined the game
+[04:23:42] [Server thread/INFO]: Juan_Master_Pro[/127.93.231.180:58777] logged in with entity id 24435 at ([world]-55.71479657387753, 72.0, -2065.300000011921)
+[04:29:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Nonigo> oe respiracion 3 para que es'
+[04:29:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Juan_Master_Pro> pa durar mas bajo el agua
+[04:29:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Nonigo> pero en que se pone
+[04:29:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Juan_Master_Pro> las burbujas se te acaban mas lento
+[04:30:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Juan_Master_Pro> al casco
+[04:30:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Nonigo> teni toa la razon
+[04:30:24] [Async Chat Thread - #3/INFO]: [Not Secure] <Juan_Master_Pro> sipo
+[04:30:28] [Async Chat Thread - #3/INFO]: [Not Secure] <Nonigo> y propulsion acuatica¿
+[04:30:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Juan_Master_Pro> en el tridente
+[04:32:27] [Server thread/INFO]: Nonigo issued server command: /xp add Nonigo 10 levels
+[04:32:27] [Server thread/INFO]: [Nonigo: Gave 10 experience levels to Nonigo]
+[04:34:29] [Async Chat Thread - #5/INFO]: [Not Secure] <Nonigo> oye
+[04:34:31] [Async Chat Thread - #5/INFO]: [Not Secure] <Nonigo> pasame tu granja de xp
+[04:35:00] [Async Chat Thread - #5/INFO]: [Not Secure] <Juan_Master_Pro> Ya pero tepeame antes
+[04:35:19] [Server thread/INFO]: Nonigo issued server command: /tp Juan_Master_Pro Nonigo
+[04:35:19] [Server thread/INFO]: [Nonigo: Teleported Juan_Master_Pro to Nonigo]
+[04:35:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Juan_Master_Pro> wena
+[04:35:32] [Async Chat Thread - #5/INFO]: [Not Secure] <Juan_Master_Pro> pasame esmeraldas pa un eficiencia 5
+[04:35:40] [Async Chat Thread - #5/INFO]: [Not Secure] <Nonigo> saca
+[04:36:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Juan_Master_Pro> pasate 1 libro
+[04:36:41] [Server thread/INFO]: Juan_Master_Pro lost connection: Disconnected
+[04:36:41] [Server thread/INFO]: Juan_Master_Pro left the game
+[04:36:47] [User Authenticator #4/INFO]: UUID of player Juan_Master_Pro is 4712667a-9446-381f-bea6-0fd846d8344f
+[04:36:47] [Server thread/INFO]: Juan_Master_Pro joined the game
+[04:36:47] [Server thread/INFO]: Juan_Master_Pro[/127.93.231.180:53267] logged in with entity id 30279 at ([world]102.82612277566426, 63.0, -2619.7402609344153)
+[04:38:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Juan_Master_Pro> ahi usala teni posciones en el cofre y prendela con el mechero
+[04:38:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Nonigo> deberiamos matar
+[04:38:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Nonigo> al dragon
+[04:38:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Nonigo> pa shulkers
+[04:38:30] [Async Chat Thread - #6/INFO]: [Not Secure] <Juan_Master_Pro> que wea dije yo
+[04:38:39] [Async Chat Thread - #7/INFO]: [Not Secure] <Nonigo> pero estos wnes
+[04:38:41] [Async Chat Thread - #7/INFO]: [Not Secure] <Nonigo> no se q ond
+[04:38:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Juan_Master_Pro> si no tan nunca po
+[04:38:52] [Async Chat Thread - #6/INFO]: [Not Secure] <Juan_Master_Pro> vamo a matarlo el otro año
+[04:41:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Juan_Master_Pro> pasamela pa sacar 5 nivele
+[04:41:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Juan_Master_Pro> le tiraste mal la wea
+[04:42:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Nonigo> salio una pichula
+[04:42:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Juan_Master_Pro> votaste un wn po xd
+[04:42:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Nonigo> la mea volaita
+[04:42:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Juan_Master_Pro> no wei
+[04:43:07] [Async Chat Thread - #8/INFO]: [Not Secure] <Nonigo> ayuda
+[04:43:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Nonigo> 7tp
+[04:43:12] [Async Chat Thread - #8/INFO]: [Not Secure] <Nonigo> 7tp
+[04:43:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Nonigo> 7/
+[04:43:17] [Server thread/INFO]: Nonigo issued server command: /tp Juan_Master_Pro
+[04:43:17] [Server thread/INFO]: [Nonigo: Teleported Nonigo to Juan_Master_Pro]
+[04:43:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Nonigo> el shift no me funciona wn
+[04:43:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Nonigo> no se q xuxa
+[04:43:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Juan_Master_Pro> tengo que pocrear mas wns
+[04:44:15] [Async Chat Thread - #9/INFO]: [Not Secure] <Nonigo> vamo a matar al wn
+[04:44:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Nonigo> ya tengo full p4
+[04:44:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Juan_Master_Pro> ya calmao
+[04:46:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Juan_Master_Pro> ya vamo
+[04:46:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Nonigo> pero hablale a los wnes
+[04:46:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Juan_Master_Pro> es ahora o mañana porque me tengo que acostar en un rato
+[04:47:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Juan_Master_Pro> mañana laburo
+[04:47:03] [Server thread/INFO]: Nonigo issued server command: /gamemode creative
+[04:47:03] [Server thread/INFO]: [Nonigo: Set own game mode to Creative Mode]
+[04:47:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Juan_Master_Pro> estos wnes no se van a meter
+[04:47:12] [Async Chat Thread - #11/INFO]: [Not Secure] <Nonigo> wn
+[04:47:12] [Async Chat Thread - #11/INFO]: [Not Secure] <Juan_Master_Pro> mira la hora}
+[04:47:15] [Async Chat Thread - #11/INFO]: [Not Secure] <Nonigo> paso helado son pa las botas o no'
+[04:47:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Juan_Master_Pro> si
+[04:47:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Juan_Master_Pro> congelas el agua
+[04:47:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Nonigo> y pork xuxa
+[04:47:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Nonigo> no me deja ponerselas
+[04:48:00] [Server thread/INFO]: Nonigo issued server command: /gamemode survival
+[04:48:00] [Server thread/INFO]: [Nonigo: Set own game mode to Survival Mode]
+[04:48:03] [Async Chat Thread - #11/INFO]: [Not Secure] <Juan_Master_Pro> los encantamientos tienen un orden
+[04:48:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Nonigo> no me wei
+[04:48:12] [Async Chat Thread - #11/INFO]: [Not Secure] <Juan_Master_Pro> si no sigues el orden no te deja ponerle otros
+[04:48:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Nonigo> ptm
+[04:48:21] [Async Chat Thread - #10/INFO]: [Not Secure] <Nonigo> ya era lw
+[04:48:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Juan_Master_Pro> tepeame donde ti
+[04:48:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Nonigo> mañana entonces
+[04:48:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Juan_Master_Pro> ya
+[04:48:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Nonigo> pa que estemos los maximos posibles
+[04:48:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Juan_Master_Pro> no me tepees entonces
+[04:48:50] [Async Chat Thread - #12/INFO]: [Not Secure] <Nonigo> q tengo que hacerme un arco
+[04:49:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Juan_Master_Pro> yo ya tengo uno con fuego, poder reparacion irrom'pibilidad y infinidad
+[04:51:47] [Server thread/INFO]: Nonigo issued server command: /gamemode creative
+[04:51:47] [Server thread/INFO]: [Nonigo: Set own game mode to Creative Mode]
+[04:52:23] [Server thread/INFO]: Nonigo issued server command: /gamemode survival
+[04:52:23] [Server thread/INFO]: [Nonigo: Set own game mode to Survival Mode]
+[04:54:20] [Server thread/INFO]: Villager Villager['Villager'/10797, uuid='97b77ff7-d426-4dd0-a87d-b242b7c1a8e6', l='ServerLevel[world]', x=-49.61, y=69.56, z=-2604.49, cpos=[-4, -163], tl=31599, v=true] died, message: 'Villager was shot by Nonigo using [Anashe777]'
+[04:54:27] [Server thread/INFO]: Villager Villager['Farmer'/10799, uuid='11d4d624-627a-4b5d-817e-cffcc4b07b50', l='ServerLevel[world]', x=-56.60, y=69.94, z=-2605.60, cpos=[-4, -163], tl=31729, v=true] died, message: 'Farmer was shot by Nonigo using [Anashe777]'
+[04:54:33] [Server thread/INFO]: Villager Villager['Farmer'/10801, uuid='ab68e698-3a71-496d-a2d7-97b0c46b7936', l='ServerLevel[world]', x=-59.23, y=69.94, z=-2607.46, cpos=[-4, -163], tl=31859, v=true] died, message: 'Farmer was shot by Nonigo using [Anashe777]'
+[04:54:35] [Server thread/INFO]: Villager Villager['Farmer'/10800, uuid='f683889c-c29c-4b1b-afab-39b689f3d488', l='ServerLevel[world]', x=-59.59, y=69.94, z=-2601.51, cpos=[-4, -163], tl=31894, v=true] died, message: 'Farmer was shot by Nonigo using [Anashe777]'
+[04:54:43] [Server thread/INFO]: Nonigo issued server command: /summon minecraft:villager
+[04:54:43] [Server thread/INFO]: [Nonigo: Summoned new Villager]
+[04:54:44] [Server thread/INFO]: Nonigo issued server command: /summon minecraft:villager
+[04:54:44] [Server thread/INFO]: [Nonigo: Summoned new Villager]
+[04:56:30] [Server thread/INFO]: Villager Villager['Villager'/16856, uuid='a31611f2-c550-4861-9ba8-a4472ee6f87c', l='ServerLevel[world]', x=-39.73, y=76.00, z=-2652.63, cpos=[-3, -166], tl=34130, v=true] died, message: 'Villager was shot by Nonigo using [Anashe777]'
+[04:57:21] [Server thread/INFO]: Villager Villager['Villager'/16885, uuid='bf8f2b70-082f-4968-8aa8-21f39c4fec73', l='ServerLevel[world]', x=-70.58, y=75.00, z=-2664.27, cpos=[-5, -167], tl=8382, v=true] died, message: 'Villager was shot by Nonigo using [Anashe777]'
+[04:57:24] [Server thread/INFO]: Villager Villager['Villager'/16892, uuid='d575280b-2e3e-4db0-b0cd-47d17466f014', l='ServerLevel[world]', x=-69.35, y=76.00, z=-2669.55, cpos=[-5, -167], tl=8954, v=true] died, message: 'Villager was burned to a crisp while fighting Nonigo'
+[05:01:02] [Async Chat Thread - #13/INFO]: [Not Secure] <Juan_Master_Pro> duerme
+[05:01:54] [Async Chat Thread - #14/INFO]: [Not Secure] <Nonigo> puedes dormir tu
+[05:02:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Juan_Master_Pro> si
+[05:02:02] [Server thread/INFO]: Nonigo lost connection: Disconnected
+[05:02:02] [Server thread/INFO]: Nonigo left the game
+[05:02:22] [User Authenticator #5/INFO]: UUID of player Nonigo is 5a1a4c56-c10e-34bb-950d-53a1f5f59079
+[05:02:23] [Server thread/INFO]: Nonigo joined the game
+[05:02:23] [Server thread/INFO]: Nonigo[/127.126.216.66:55917] logged in with entity id 43271 at ([world]-417.35361502841204, 94.79673560066871, -2420.153679583386)
+[05:05:49] [Async Chat Thread - #16/INFO]: [Not Secure] <Juan_Master_Pro> tepeame
+[05:05:55] [Async Chat Thread - #16/INFO]: [Not Secure] <Nonigo> TOY A LA XUXA
+[05:06:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Juan_Master_Pro> pa donde fuiste jaja
+[05:06:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Nonigo> a buscar comida
+[05:06:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Juan_Master_Pro> y porque no te haci zanahorias de oro
+[05:06:31] [Async Chat Thread - #16/INFO]: [Not Secure] <Nonigo> pork me gusta la carne
+[05:06:42] [Async Chat Thread - #15/INFO]: [Not Secure] <Juan_Master_Pro> la zanahoria es la mejor comida del juego wn
+[05:06:54] [Async Chat Thread - #15/INFO]: [Not Secure] <Nonigo> y mi pene
+[05:07:12] [Async Chat Thread - #16/INFO]: [Not Secure] <Juan_Master_Pro> andai chistoso
+[05:07:21] [Async Chat Thread - #15/INFO]: [Not Secure] <Nonigo> oye y tu amiga
+[05:07:31] [Async Chat Thread - #16/INFO]: [Not Secure] <Juan_Master_Pro> nose wn funo
+[05:07:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Nonigo> dame el ig
+[05:07:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Nonigo> yo la meto
+[05:07:48] [Async Chat Thread - #16/INFO]: [Not Secure] <Nonigo> y a ella tmbn
+[05:07:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Juan_Master_Pro> el qliao
+[05:08:31] [Async Chat Thread - #15/INFO]: [Not Secure] <Nonigo> 7t
+[05:08:42] [Server thread/INFO]: Nonigo issued server command: /tp Juan_Master_Pro
+[05:08:42] [Server thread/INFO]: [Nonigo: Teleported Nonigo to Juan_Master_Pro]
+[05:08:47] [Async Chat Thread - #15/INFO]: [Not Secure] <Nonigo> toy q me cago
+[05:08:49] [Async Chat Thread - #16/INFO]: [Not Secure] <Nonigo> voy al baño
+[05:08:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Juan_Master_Pro> jajaj ya
+[05:23:39] [Server thread/INFO]: Nonigo issued server command: /tp Juan_Master_Pro
+[05:23:39] [Server thread/INFO]: [Nonigo: Teleported Nonigo to Juan_Master_Pro]
+[05:23:49] [Async Chat Thread - #17/INFO]: [Not Secure] <Nonigo> y esto
+[05:24:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Juan_Master_Pro> sera una granaj de creepers
+[05:24:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Juan_Master_Pro> pa tener polvora
+[05:24:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Juan_Master_Pro> y hacer cuetes
+[05:24:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Nonigo> pa donde es la casa
+[05:24:29] [Async Chat Thread - #17/INFO]: [Not Secure] <Juan_Master_Pro> paca
+[05:25:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Nonigo> hay un templo aca
+[05:25:05] [Async Chat Thread - #17/INFO]: [Not Secure] <Juan_Master_Pro> pa donde fuiste
+[05:25:26] [Async Chat Thread - #17/INFO]: [Not Secure] <Nonigo> la mea volaita
+[05:25:27] [Async Chat Thread - #17/INFO]: [Not Secure] <Juan_Master_Pro> de cuela templos
+[05:25:27] [Async Chat Thread - #17/INFO]: [Not Secure] <Nonigo> me dieron la cuchara
+[05:25:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Nonigo> aca alao
+[05:25:48] [Async Chat Thread - #18/INFO]: [Not Secure] <Nonigo> pa donde chucha es la casa
+[05:26:28] [Async Chat Thread - #17/INFO]: [Not Secure] <Juan_Master_Pro> reco para haya
+[05:26:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Nonigo> la mea volaita no me agarra el shift
+[05:26:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Nonigo> no me puedo bajar
+[05:27:23] [Async Chat Thread - #17/INFO]: [Not Secure] <Juan_Master_Pro> para haya
+[05:28:41] [Async Chat Thread - #19/INFO]: [Not Secure] <Nonigo> q xuxa se conseguia en esos templos marinos'
+[05:28:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Juan_Master_Pro> esponja
+[05:31:24] [Async Chat Thread - #21/INFO]: [Not Secure] <Nonigo> toy mas perdido
+[05:31:28] [Server thread/INFO]: Nonigo issued server command: /gamemode spectator
+[05:31:28] [Server thread/INFO]: [Nonigo: Set own game mode to Spectator Mode]
+[05:31:35] [Async Chat Thread - #21/INFO]: [Not Secure] <Nonigo> a ya n odije nada
+[05:31:56] [Server thread/INFO]: Nonigo issued server command: /gamemode survival
+[05:31:56] [Server thread/INFO]: [Nonigo: Set own game mode to Survival Mode]
+[05:32:56] [Async Chat Thread - #24/INFO]: [Not Secure] <Juan_Master_Pro> ya wn me voy a dormir
+[05:33:00] [Async Chat Thread - #24/INFO]: [Not Secure] <Juan_Master_Pro> mañana termino esta wea
+[05:33:07] [Async Chat Thread - #24/INFO]: [Not Secure] <Nonigo> dale cotele
+[05:33:15] [Async Chat Thread - #23/INFO]: [Not Secure] <Juan_Master_Pro> ahi nos vemos
+[05:33:18] [Async Chat Thread - #24/INFO]: [Not Secure] <Nonigo> nos vem
+[05:33:19] [Async Chat Thread - #24/INFO]: [Not Secure] <Juan_Master_Pro> buenas noches
+[05:33:21] [Server thread/INFO]: Juan_Master_Pro lost connection: Disconnected
+[05:33:21] [Server thread/INFO]: Juan_Master_Pro left the game
+[05:33:21] [Async Chat Thread - #23/INFO]: [Not Secure] <Nonigo> vemo
+[05:33:56] [Server thread/INFO]: Nonigo lost connection: Disconnected
+[05:33:56] [Server thread/INFO]: Nonigo left the game
